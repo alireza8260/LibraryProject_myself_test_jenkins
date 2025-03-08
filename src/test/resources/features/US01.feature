@@ -1,3 +1,4 @@
+@smoke
 Feature: as a librarian , i want to retrieve all the users
   As a librarian,
   I want to retrieve all users from the library2.cydeo.com API endpoint
